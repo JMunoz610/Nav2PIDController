@@ -46,7 +46,14 @@ A **PID controller** was chosen for its simplicity, responsiveness, and low comp
 ## Tuning Process
 - Conducted in **Gazebo simulation** using the default turtlesim world.  
 - Incrementally tuned P → I → D terms until achieving stable yet responsive motion.  
-- Validated by commanding the robot to multiple map locations and observing behavior.  
+- Validated by commanding the robot to multiple map locations and observing behavior.
+
+<p align="center">
+  <img src="images/rviz.png" width="40%" />
+  <img src="images/gazebo.png" width="45%" />
+</p>
+
+Screenshots of the tuning environment in **RViz** and **Gazebo**, displayed with the TurtleBot map.
 
 ---
 
@@ -55,6 +62,9 @@ Three environments were tested (12 ft traversal from corner to corner):
 1. **No obstacles**  
 2. **Single obstacle**  
 3. **Multiple obstacles (tight paths)**  
+
+<img src="images/testing_area.jpg" width="40%" />
+Testing Area Setup
 
 ### Results
 | Trial | No Obstacles | One Obstacle | Multiple Obstacles |
