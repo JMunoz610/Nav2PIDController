@@ -4,6 +4,8 @@
 The aim of this project was to design and implement a **custom PID controller plugin** for the ROS2 Nav2 autonomy stack.  
 This controller enables a TurtleBot3 Burger robot to navigate dynamic environments (like restaurants or gyms) safely and fluidly, handling both static and moving obstacles.
 
+See google drive for [Competition Video](https://drive.google.com/drive/u/0/folders/1yTib5xrnqzO3QgYMHM2jq7D21an6I8e4)
+
 ---
 
 ## Development Platform
