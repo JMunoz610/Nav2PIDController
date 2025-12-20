@@ -1,4 +1,4 @@
-# Custom PID Controller for TurtleBot3 (ROS2 Nav2)
+# Custom PID Controller for TurtleBot3 (Aug 2025 - Dec 2025)
 
 ## Project Goal
 The aim of this project was to design and implement a **custom PID controller plugin** for the ROS2 Nav2 autonomy stack.  
